@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "name": "OBS Studio",
   "description": "Record video and stream live.",
-  "version": "31.0.0",
+  "version": "32.1.0",
   "image": "ghcr.io/containerpak/obs-studio:main",
   "binaries": ["/usr/bin/obs"],
   "desktop_entries": ["/usr/share/applications/com.obsproject.Studio.desktop"],
