@@ -4,7 +4,7 @@
   "name": "OBS Studio",
   "description": "Record video and stream live.",
   "version": "32.1.0",
-  "image": "ghcr.io/containerpak/obs-studio@sha256:b5b3115fc2cae364a4b5bc4a4d9fe28166e481d1dfc6314b16cefc6bccbaf85f",
+  "image": "ghcr.io/containerpak/obs-studio@sha256:a7cb94e397bc7af053466f05c7cbfd18e2c8c31fc7b6e583df71acffc06cfb05",
   "binaries": [
     "/usr/bin/obs"
   ],
